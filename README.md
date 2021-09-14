@@ -5,7 +5,10 @@ I'm Hagai, a Computer science student at Ariel University.
 
 
 ## Skills
-- 🌱 I’m currently learning Java and C langauges.
+- 🌱 Java
+- 🌱 Python
+- 🌱 C
+- 🌱 SQL
 
 ## Contact
 LinkedIn:
