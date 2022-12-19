@@ -8,6 +8,7 @@ I'm Hagai, a Computer science student at Ariel University.
 - 🌱 Java
 - 🌱 Python
 - 🌱 C
+- 🌱 C++
 - 🌱 SQL
 
 ## Contact
