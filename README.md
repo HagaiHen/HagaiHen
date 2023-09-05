@@ -1,7 +1,7 @@
 
 
 ## Hey! 👋
-I'm Hagai, a Computer science student at Ariel University.
+I'm Hagai, a Computer Science & Math Graduate.
 
 
 ## Skills
@@ -9,6 +9,7 @@ I'm Hagai, a Computer science student at Ariel University.
 - 🌱 Python
 - 🌱 C
 - 🌱 C++
+- 🌱 JavaScript
 - 🌱 SQL
 
 ## Contact
